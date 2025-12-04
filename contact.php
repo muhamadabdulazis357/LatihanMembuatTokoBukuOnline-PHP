@@ -139,7 +139,7 @@ if(!isset($user_id)){
                 <p>Melayani pada pukul <strong>08:00 - 17:00 WIB</strong></p>
                 <p>Dapatkan bantuan langsung dari tim customer service kami melalui WhatsApp.</p>
             </div>
-            <button class="contact-button" onclick="window.location.href='https://wa.me/6282328662987'">
+            <button class="contact-button" onclick="window.location.href='https://wa.me/628123456789'">
                 <i class="fab fa-whatsapp"></i> Chat via WhatsApp
             </button>
         </div>
@@ -148,11 +148,11 @@ if(!isset($user_id)){
         <div class="contact-card">
             <h2><i class="fas fa-envelope"></i> Email</h2>
             <div class="contact-info">
-                <p>Alamat email: <strong>muhammadabdulazis104@gmail.com</strong></p>
+                <p>Alamat email: <strong>abcdefghijklmnopqrstuvwxyz@gmail.com</strong></p>
                 <p>Melayani pada pukul <strong>08:00 - 17:00 WIB</strong></p>
                 <p>Kirimkan pertanyaan, saran, atau keluhan Anda melalui email kami.</p>
             </div>
-            <button class="contact-button" onclick="window.location.href='https://muhammadabdulazis104@gmail.com'">
+            <button class="contact-button" onclick="window.location.href='https://abcdefghijklmnopqrstuvwxyz@gmail.com'">
                 <i class="fas fa-paper-plane"></i> Kirim Email
             </button>
         </div>
